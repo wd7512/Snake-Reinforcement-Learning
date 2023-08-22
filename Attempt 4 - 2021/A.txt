@@ -1,0 +1,3000 @@
+Gen : 0
+Best Score : 2023
+Avg Score : 153.965
+Gen : 1
+Best Score : 1029
+Avg Score : 190.425
+Gen : 2
+Best Score : 1029
+Avg Score : 145.53
+Gen : 3
+Best Score : 1022
+Avg Score : 140.9
+Gen : 4
+Best Score : 2023
+Avg Score : 156.39
+Gen : 5
+Best Score : 1025
+Avg Score : 192.46
+Gen : 6
+Best Score : 1023
+Avg Score : 182.075
+Gen : 7
+Best Score : 2025
+Avg Score : 202.425
+Gen : 8
+Best Score : 2012
+Avg Score : 212.365
+Gen : 9
+Best Score : 1025
+Avg Score : 197.325
+Gen : 10
+Best Score : 2012
+Avg Score : 227.83
+Gen : 11
+Best Score : 2015
+Avg Score : 196.755
+Gen : 12
+Best Score : 1023
+Avg Score : 232.745
+Gen : 13
+Best Score : 1047
+Avg Score : 172.475
+Gen : 14
+Best Score : 1042
+Avg Score : 253.435
+Gen : 15
+Best Score : 2023
+Avg Score : 203.455
+Gen : 16
+Best Score : 2024
+Avg Score : 238.95
+Gen : 17
+Best Score : 1046
+Avg Score : 193.31
+Gen : 18
+Best Score : 1046
+Avg Score : 197.86
+Gen : 19
+Best Score : 2300
+Avg Score : 180.3
+Gen : 20
+Best Score : 2047
+Avg Score : 183.845
+Gen : 21
+Best Score : 1047
+Avg Score : 183.06
+Gen : 22
+Best Score : 1024
+Avg Score : 177.545
+Gen : 23
+Best Score : 1046
+Avg Score : 137.48
+Gen : 24
+Best Score : 2025
+Avg Score : 198.475
+Gen : 25
+Best Score : 1046
+Avg Score : 147.9
+Gen : 26
+Best Score : 2024
+Avg Score : 214.04
+Gen : 27
+Best Score : 2019
+Avg Score : 284.555
+Gen : 28
+Best Score : 2011
+Avg Score : 207.49
+Gen : 29
+Best Score : 2024
+Avg Score : 197.755
+Gen : 30
+Best Score : 2025
+Avg Score : 136.38
+Gen : 31
+Best Score : 1024
+Avg Score : 171.06
+Gen : 32
+Best Score : 2014
+Avg Score : 155.425
+Gen : 33
+Best Score : 2012
+Avg Score : 141.835
+Gen : 34
+Best Score : 2023
+Avg Score : 166.425
+Gen : 35
+Best Score : 1029
+Avg Score : 168.14
+Gen : 36
+Best Score : 2024
+Avg Score : 233.015
+Gen : 37
+Best Score : 2021
+Avg Score : 202.87
+Gen : 38
+Best Score : 1037
+Avg Score : 258.58
+Gen : 39
+Best Score : 1038
+Avg Score : 273.695
+Gen : 40
+Best Score : 2037
+Avg Score : 219.155
+Gen : 41
+Best Score : 1038
+Avg Score : 237.62
+Gen : 42
+Best Score : 2012
+Avg Score : 234.04
+Gen : 43
+Best Score : 2035
+Avg Score : 168.31
+Gen : 44
+Best Score : 1035
+Avg Score : 192.24
+Gen : 45
+Best Score : 2034
+Avg Score : 238.95
+Gen : 46
+Best Score : 1036
+Avg Score : 157.65
+Gen : 47
+Best Score : 1036
+Avg Score : 193.69
+Gen : 48
+Best Score : 1036
+Avg Score : 212.045
+Gen : 49
+Best Score : 2035
+Avg Score : 223.555
+Gen : 50
+Best Score : 2021
+Avg Score : 208.08
+Gen : 51
+Best Score : 2035
+Avg Score : 228.11
+Gen : 52
+Best Score : 1036
+Avg Score : 243.42
+Gen : 53
+Best Score : 2033
+Avg Score : 244.91
+Gen : 54
+Best Score : 2035
+Avg Score : 253.555
+Gen : 55
+Best Score : 2037
+Avg Score : 193.06
+Gen : 56
+Best Score : 2034
+Avg Score : 212.17
+Gen : 57
+Best Score : 1035
+Avg Score : 165.72
+Gen : 58
+Best Score : 2035
+Avg Score : 205.825
+Gen : 59
+Best Score : 1041
+Avg Score : 216.6
+Gen : 60
+Best Score : 2018
+Avg Score : 186.02
+Gen : 61
+Best Score : 1038
+Avg Score : 181.27
+Gen : 62
+Best Score : 2039
+Avg Score : 155.88
+Gen : 63
+Best Score : 2037
+Avg Score : 226.505
+Gen : 64
+Best Score : 2038
+Avg Score : 181.84
+Gen : 65
+Best Score : 2040
+Avg Score : 238.42
+Gen : 66
+Best Score : 1039
+Avg Score : 151.57
+Gen : 67
+Best Score : 1042
+Avg Score : 186.96
+Gen : 68
+Best Score : 2035
+Avg Score : 198.58
+Gen : 69
+Best Score : 2032
+Avg Score : 253.98
+Gen : 70
+Best Score : 2036
+Avg Score : 222.72
+Gen : 71
+Best Score : 2035
+Avg Score : 207.165
+Gen : 72
+Best Score : 3047
+Avg Score : 272.89
+Gen : 73
+Best Score : 2026
+Avg Score : 253.65
+Gen : 74
+Best Score : 2035
+Avg Score : 283.67
+Gen : 75
+Best Score : 2043
+Avg Score : 243.49
+Gen : 76
+Best Score : 2036
+Avg Score : 218.88
+Gen : 77
+Best Score : 2021
+Avg Score : 278.935
+Gen : 78
+Best Score : 2042
+Avg Score : 208.525
+Gen : 79
+Best Score : 2012
+Avg Score : 224.325
+Gen : 80
+Best Score : 1042
+Avg Score : 243.435
+Gen : 81
+Best Score : 2039
+Avg Score : 238.975
+Gen : 82
+Best Score : 1043
+Avg Score : 219.42
+Gen : 83
+Best Score : 1044
+Avg Score : 232.37
+Gen : 84
+Best Score : 1043
+Avg Score : 253.89
+Gen : 85
+Best Score : 1045
+Avg Score : 202.575
+Gen : 86
+Best Score : 2024
+Avg Score : 198.245
+Gen : 87
+Best Score : 2012
+Avg Score : 203.955
+Gen : 88
+Best Score : 1045
+Avg Score : 191.895
+Gen : 89
+Best Score : 2019
+Avg Score : 177.185
+Gen : 90
+Best Score : 2045
+Avg Score : 214.435
+Gen : 91
+Best Score : 3034
+Avg Score : 224.295
+Gen : 92
+Best Score : 1043
+Avg Score : 184.495
+Gen : 93
+Best Score : 1043
+Avg Score : 218.72
+Gen : 94
+Best Score : 2043
+Avg Score : 274.84
+Gen : 95
+Best Score : 1045
+Avg Score : 233.385
+Gen : 96
+Best Score : 2041
+Avg Score : 284.98
+Gen : 97
+Best Score : 2041
+Avg Score : 300.49
+Gen : 98
+Best Score : 2024
+Avg Score : 244.035
+Gen : 99
+Best Score : 2055
+Avg Score : 259.8
+Gen : 100
+Best Score : 3036
+Avg Score : 285.825
+Gen : 101
+Best Score : 2011
+Avg Score : 254.535
+Gen : 102
+Best Score : 2046
+Avg Score : 311.105
+Gen : 103
+Best Score : 2011
+Avg Score : 316.65
+Gen : 104
+Best Score : 2019
+Avg Score : 275.51
+Gen : 105
+Best Score : 2018
+Avg Score : 279.43
+Gen : 106
+Best Score : 1048
+Avg Score : 269.96
+Gen : 107
+Best Score : 2038
+Avg Score : 299.645
+Gen : 108
+Best Score : 2039
+Avg Score : 305.695
+Gen : 109
+Best Score : 2041
+Avg Score : 310.945
+Gen : 110
+Best Score : 2035
+Avg Score : 305.76
+Gen : 111
+Best Score : 2038
+Avg Score : 326.38
+Gen : 112
+Best Score : 2046
+Avg Score : 312.535
+Gen : 113
+Best Score : 2041
+Avg Score : 297.375
+Gen : 114
+Best Score : 2042
+Avg Score : 260.055
+Gen : 115
+Best Score : 2047
+Avg Score : 281.49
+Gen : 116
+Best Score : 2045
+Avg Score : 277.88
+Gen : 117
+Best Score : 2045
+Avg Score : 291.345
+Gen : 118
+Best Score : 2041
+Avg Score : 231.055
+Gen : 119
+Best Score : 2044
+Avg Score : 343.36
+Gen : 120
+Best Score : 2025
+Avg Score : 268.79
+Gen : 121
+Best Score : 2035
+Avg Score : 302.465
+Gen : 122
+Best Score : 2047
+Avg Score : 282.77
+Gen : 123
+Best Score : 2035
+Avg Score : 268.07
+Gen : 124
+Best Score : 1047
+Avg Score : 283.39
+Gen : 125
+Best Score : 2044
+Avg Score : 235.945
+Gen : 126
+Best Score : 2045
+Avg Score : 240.565
+Gen : 127
+Best Score : 1047
+Avg Score : 236.725
+Gen : 128
+Best Score : 2047
+Avg Score : 237.435
+Gen : 129
+Best Score : 2043
+Avg Score : 287.325
+Gen : 130
+Best Score : 2041
+Avg Score : 286.68
+Gen : 131
+Best Score : 2040
+Avg Score : 301.09
+Gen : 132
+Best Score : 2012
+Avg Score : 213.56
+Gen : 133
+Best Score : 2040
+Avg Score : 223.605
+Gen : 134
+Best Score : 2044
+Avg Score : 183.65
+Gen : 135
+Best Score : 2045
+Avg Score : 193.465
+Gen : 136
+Best Score : 2046
+Avg Score : 177.755
+Gen : 137
+Best Score : 1046
+Avg Score : 139.39
+Gen : 138
+Best Score : 2044
+Avg Score : 149.29
+Gen : 139
+Best Score : 1047
+Avg Score : 123.565
+Gen : 140
+Best Score : 2017
+Avg Score : 212.255
+Gen : 141
+Best Score : 2044
+Avg Score : 176.52
+Gen : 142
+Best Score : 2037
+Avg Score : 185.69
+Gen : 143
+Best Score : 1044
+Avg Score : 169.59
+Gen : 144
+Best Score : 2045
+Avg Score : 196.135
+Gen : 145
+Best Score : 2035
+Avg Score : 178.25
+Gen : 146
+Best Score : 2022
+Avg Score : 175.405
+Gen : 147
+Best Score : 1200
+Avg Score : 119.815
+Gen : 148
+Best Score : 2045
+Avg Score : 125.47
+Gen : 149
+Best Score : 2044
+Avg Score : 165.61
+Gen : 150
+Best Score : 2047
+Avg Score : 159.315
+Gen : 151
+Best Score : 2044
+Avg Score : 213.095
+Gen : 152
+Best Score : 2045
+Avg Score : 206.895
+Gen : 153
+Best Score : 2040
+Avg Score : 135.105
+Gen : 154
+Best Score : 2040
+Avg Score : 164.005
+Gen : 155
+Best Score : 2040
+Avg Score : 196.37
+Gen : 156
+Best Score : 2043
+Avg Score : 236.29
+Gen : 157
+Best Score : 2037
+Avg Score : 200.075
+Gen : 158
+Best Score : 2043
+Avg Score : 241.845
+Gen : 159
+Best Score : 2042
+Avg Score : 242.64
+Gen : 160
+Best Score : 1047
+Avg Score : 233.46
+Gen : 161
+Best Score : 1051
+Avg Score : 226.345
+Gen : 162
+Best Score : 2016
+Avg Score : 220.58
+Gen : 163
+Best Score : 2093
+Avg Score : 187.5
+Gen : 164
+Best Score : 2110
+Avg Score : 203.03
+Gen : 165
+Best Score : 2046
+Avg Score : 172.475
+Gen : 166
+Best Score : 1100
+Avg Score : 193.27
+Gen : 167
+Best Score : 2043
+Avg Score : 169.23
+Gen : 168
+Best Score : 3033
+Avg Score : 197.33
+Gen : 169
+Best Score : 1092
+Avg Score : 198.895
+Gen : 170
+Best Score : 2026
+Avg Score : 243.95
+Gen : 171
+Best Score : 2172
+Avg Score : 219.635
+Gen : 172
+Best Score : 2036
+Avg Score : 229.935
+Gen : 173
+Best Score : 2043
+Avg Score : 264.86
+Gen : 174
+Best Score : 2048
+Avg Score : 280.615
+Gen : 175
+Best Score : 2047
+Avg Score : 246.66
+Gen : 176
+Best Score : 2031
+Avg Score : 246.275
+Gen : 177
+Best Score : 1044
+Avg Score : 210.185
+Gen : 178
+Best Score : 2041
+Avg Score : 291.15
+Gen : 179
+Best Score : 2036
+Avg Score : 245.355
+Gen : 180
+Best Score : 2036
+Avg Score : 256.205
+Gen : 181
+Best Score : 2052
+Avg Score : 306.7
+Gen : 182
+Best Score : 2035
+Avg Score : 282.31
+Gen : 183
+Best Score : 2039
+Avg Score : 329.24
+Gen : 184
+Best Score : 2043
+Avg Score : 358.265
+Gen : 185
+Best Score : 2044
+Avg Score : 360.025
+Gen : 186
+Best Score : 2043
+Avg Score : 403.525
+Gen : 187
+Best Score : 2044
+Avg Score : 382.83
+Gen : 188
+Best Score : 2021
+Avg Score : 317.945
+Gen : 189
+Best Score : 3044
+Avg Score : 368.43
+Gen : 190
+Best Score : 2026
+Avg Score : 299.01
+Gen : 191
+Best Score : 2044
+Avg Score : 291.655
+Gen : 192
+Best Score : 2039
+Avg Score : 327.19
+Gen : 193
+Best Score : 2039
+Avg Score : 298.015
+Gen : 194
+Best Score : 2300
+Avg Score : 333.83
+Gen : 195
+Best Score : 2022
+Avg Score : 299.09
+Gen : 196
+Best Score : 1200
+Avg Score : 273.45
+Gen : 197
+Best Score : 2042
+Avg Score : 275.11
+Gen : 198
+Best Score : 2043
+Avg Score : 264.035
+Gen : 199
+Best Score : 2040
+Avg Score : 311.975
+Gen : 200
+Best Score : 2043
+Avg Score : 281.505
+Gen : 201
+Best Score : 2300
+Avg Score : 356.31
+Gen : 202
+Best Score : 2047
+Avg Score : 297.215
+Gen : 203
+Best Score : 2047
+Avg Score : 271.935
+Gen : 204
+Best Score : 2032
+Avg Score : 247.525
+Gen : 205
+Best Score : 2300
+Avg Score : 344.93
+Gen : 206
+Best Score : 2043
+Avg Score : 307.75
+Gen : 207
+Best Score : 2047
+Avg Score : 310.2
+Gen : 208
+Best Score : 2046
+Avg Score : 226.955
+Gen : 209
+Best Score : 2044
+Avg Score : 266.505
+Gen : 210
+Best Score : 2044
+Avg Score : 242.37
+Gen : 211
+Best Score : 2044
+Avg Score : 210.57
+Gen : 212
+Best Score : 2043
+Avg Score : 212.665
+Gen : 213
+Best Score : 2043
+Avg Score : 239.01
+Gen : 214
+Best Score : 2037
+Avg Score : 203.045
+Gen : 215
+Best Score : 2047
+Avg Score : 218.32
+Gen : 216
+Best Score : 1200
+Avg Score : 158.065
+Gen : 217
+Best Score : 2046
+Avg Score : 172.95
+Gen : 218
+Best Score : 2135
+Avg Score : 174.645
+Gen : 219
+Best Score : 2013
+Avg Score : 223.58
+Gen : 220
+Best Score : 2032
+Avg Score : 196.905
+Gen : 221
+Best Score : 2074
+Avg Score : 184.725
+Gen : 222
+Best Score : 1083
+Avg Score : 199.585
+Gen : 223
+Best Score : 1075
+Avg Score : 167.09
+Gen : 224
+Best Score : 2030
+Avg Score : 161.535
+Gen : 225
+Best Score : 2044
+Avg Score : 215.665
+Gen : 226
+Best Score : 2088
+Avg Score : 277.825
+Gen : 227
+Best Score : 2300
+Avg Score : 303.525
+Gen : 228
+Best Score : 2044
+Avg Score : 327.13
+Gen : 229
+Best Score : 2108
+Avg Score : 346.57
+Gen : 230
+Best Score : 2074
+Avg Score : 292.765
+Gen : 231
+Best Score : 3168
+Avg Score : 312.5
+Gen : 232
+Best Score : 2111
+Avg Score : 267.35
+Gen : 233
+Best Score : 5207
+Avg Score : 294.785
+Gen : 234
+Best Score : 2107
+Avg Score : 331.395
+Gen : 235
+Best Score : 2128
+Avg Score : 275.165
+Gen : 236
+Best Score : 2071
+Avg Score : 346.14
+Gen : 237
+Best Score : 3078
+Avg Score : 336.6
+Gen : 238
+Best Score : 3122
+Avg Score : 281.095
+Gen : 239
+Best Score : 2094
+Avg Score : 306.585
+Gen : 240
+Best Score : 2300
+Avg Score : 398.465
+Gen : 241
+Best Score : 3140
+Avg Score : 372.795
+Gen : 242
+Best Score : 3143
+Avg Score : 414.345
+Gen : 243
+Best Score : 2109
+Avg Score : 390.325
+Gen : 244
+Best Score : 2089
+Avg Score : 298.11
+Gen : 245
+Best Score : 2097
+Avg Score : 306.215
+Gen : 246
+Best Score : 3158
+Avg Score : 364.275
+Gen : 247
+Best Score : 3159
+Avg Score : 407.775
+Gen : 248
+Best Score : 3089
+Avg Score : 423.735
+Gen : 249
+Best Score : 3166
+Avg Score : 491.475
+Gen : 250
+Best Score : 3130
+Avg Score : 538.91
+Gen : 251
+Best Score : 4217
+Avg Score : 566.515
+Gen : 252
+Best Score : 3199
+Avg Score : 455.14
+Gen : 253
+Best Score : 3076
+Avg Score : 493.545
+Gen : 254
+Best Score : 3163
+Avg Score : 527.135
+Gen : 255
+Best Score : 3124
+Avg Score : 537.445
+Gen : 256
+Best Score : 3187
+Avg Score : 588.05
+Gen : 257
+Best Score : 3194
+Avg Score : 585.36
+Gen : 258
+Best Score : 4171
+Avg Score : 565.79
+Gen : 259
+Best Score : 3118
+Avg Score : 565.645
+Gen : 260
+Best Score : 3184
+Avg Score : 558.175
+Gen : 261
+Best Score : 2123
+Avg Score : 691.28
+Gen : 262
+Best Score : 3146
+Avg Score : 648.46
+Gen : 263
+Best Score : 3144
+Avg Score : 539.87
+Gen : 264
+Best Score : 3077
+Avg Score : 510.455
+Gen : 265
+Best Score : 3070
+Avg Score : 563.715
+Gen : 266
+Best Score : 3144
+Avg Score : 565.17
+Gen : 267
+Best Score : 3115
+Avg Score : 608.985
+Gen : 268
+Best Score : 3400
+Avg Score : 611.84
+Gen : 269
+Best Score : 3127
+Avg Score : 558.755
+Gen : 270
+Best Score : 3169
+Avg Score : 570.86
+Gen : 271
+Best Score : 3107
+Avg Score : 546.535
+Gen : 272
+Best Score : 2150
+Avg Score : 502.44
+Gen : 273
+Best Score : 3172
+Avg Score : 527.495
+Gen : 274
+Best Score : 4224
+Avg Score : 612.85
+Gen : 275
+Best Score : 2126
+Avg Score : 443.385
+Gen : 276
+Best Score : 2128
+Avg Score : 497.925
+Gen : 277
+Best Score : 3115
+Avg Score : 488.48
+Gen : 278
+Best Score : 2094
+Avg Score : 510.805
+Gen : 279
+Best Score : 2123
+Avg Score : 561.165
+Gen : 280
+Best Score : 3215
+Avg Score : 594.7
+Gen : 281
+Best Score : 2133
+Avg Score : 485.345
+Gen : 282
+Best Score : 2167
+Avg Score : 457.15
+Gen : 283
+Best Score : 2105
+Avg Score : 471.605
+Gen : 284
+Best Score : 3082
+Avg Score : 441.74
+Gen : 285
+Best Score : 2120
+Avg Score : 464.675
+Gen : 286
+Best Score : 3167
+Avg Score : 466.51
+Gen : 287
+Best Score : 2300
+Avg Score : 418.615
+Gen : 288
+Best Score : 3039
+Avg Score : 434.71
+Gen : 289
+Best Score : 4183
+Avg Score : 504.64
+Gen : 290
+Best Score : 3123
+Avg Score : 489.335
+Gen : 291
+Best Score : 2079
+Avg Score : 375.21
+Gen : 292
+Best Score : 3076
+Avg Score : 481.035
+Gen : 293
+Best Score : 3110
+Avg Score : 512.23
+Gen : 294
+Best Score : 2127
+Avg Score : 451.2
+Gen : 295
+Best Score : 3162
+Avg Score : 528.405
+Gen : 296
+Best Score : 2300
+Avg Score : 488.325
+Gen : 297
+Best Score : 3117
+Avg Score : 445.49
+Gen : 298
+Best Score : 3150
+Avg Score : 464.275
+Gen : 299
+Best Score : 2167
+Avg Score : 400.64
+Gen : 300
+Best Score : 5239
+Avg Score : 493.58
+Gen : 301
+Best Score : 3191
+Avg Score : 495.975
+Gen : 302
+Best Score : 2300
+Avg Score : 470.485
+Gen : 303
+Best Score : 2300
+Avg Score : 428.56
+Gen : 304
+Best Score : 3112
+Avg Score : 450.655
+Gen : 305
+Best Score : 3223
+Avg Score : 447.72
+Gen : 306
+Best Score : 2300
+Avg Score : 366.13
+Gen : 307
+Best Score : 3112
+Avg Score : 426.815
+Gen : 308
+Best Score : 3400
+Avg Score : 454.02
+Gen : 309
+Best Score : 2300
+Avg Score : 311.05
+Gen : 310
+Best Score : 3400
+Avg Score : 480.945
+Gen : 311
+Best Score : 4500
+Avg Score : 458.67
+Gen : 312
+Best Score : 4500
+Avg Score : 447.775
+Gen : 313
+Best Score : 2300
+Avg Score : 453.385
+Gen : 314
+Best Score : 3400
+Avg Score : 532.58
+Gen : 315
+Best Score : 3400
+Avg Score : 362.235
+Gen : 316
+Best Score : 2300
+Avg Score : 448.87
+Gen : 317
+Best Score : 3135
+Avg Score : 444.095
+Gen : 318
+Best Score : 4500
+Avg Score : 514.52
+Gen : 319
+Best Score : 3400
+Avg Score : 467.015
+Gen : 320
+Best Score : 3400
+Avg Score : 517.2
+Gen : 321
+Best Score : 3233
+Avg Score : 546.205
+Gen : 322
+Best Score : 4239
+Avg Score : 595.225
+Gen : 323
+Best Score : 3400
+Avg Score : 547.06
+Gen : 324
+Best Score : 4131
+Avg Score : 583.11
+Gen : 325
+Best Score : 3189
+Avg Score : 457.535
+Gen : 326
+Best Score : 3400
+Avg Score : 521.09
+Gen : 327
+Best Score : 4225
+Avg Score : 572.845
+Gen : 328
+Best Score : 4239
+Avg Score : 455.62
+Gen : 329
+Best Score : 3400
+Avg Score : 577.485
+Gen : 330
+Best Score : 4500
+Avg Score : 422.735
+Gen : 331
+Best Score : 2300
+Avg Score : 355.875
+Gen : 332
+Best Score : 3400
+Avg Score : 389.565
+Gen : 333
+Best Score : 4265
+Avg Score : 404.77
+Gen : 334
+Best Score : 3400
+Avg Score : 374.86
+Gen : 335
+Best Score : 3157
+Avg Score : 389.84
+Gen : 336
+Best Score : 3400
+Avg Score : 488.68
+Gen : 337
+Best Score : 5600
+Avg Score : 528.53
+Gen : 338
+Best Score : 3400
+Avg Score : 429.84
+Gen : 339
+Best Score : 3400
+Avg Score : 421.58
+Gen : 340
+Best Score : 3264
+Avg Score : 362.895
+Gen : 341
+Best Score : 3400
+Avg Score : 406.78
+Gen : 342
+Best Score : 4500
+Avg Score : 377.675
+Gen : 343
+Best Score : 2300
+Avg Score : 369.435
+Gen : 344
+Best Score : 5348
+Avg Score : 363.78
+Gen : 345
+Best Score : 4500
+Avg Score : 348.685
+Gen : 346
+Best Score : 3400
+Avg Score : 303.66
+Gen : 347
+Best Score : 3400
+Avg Score : 268.44
+Gen : 348
+Best Score : 2300
+Avg Score : 264.705
+Gen : 349
+Best Score : 3400
+Avg Score : 404.26
+Gen : 350
+Best Score : 4500
+Avg Score : 362.94
+Gen : 351
+Best Score : 3400
+Avg Score : 337.575
+Gen : 352
+Best Score : 3400
+Avg Score : 303.47
+Gen : 353
+Best Score : 3113
+Avg Score : 328.755
+Gen : 354
+Best Score : 3085
+Avg Score : 310.3
+Gen : 355
+Best Score : 3400
+Avg Score : 331.18
+Gen : 356
+Best Score : 5600
+Avg Score : 469.395
+Gen : 357
+Best Score : 4500
+Avg Score : 449.47
+Gen : 358
+Best Score : 4303
+Avg Score : 569.31
+Gen : 359
+Best Score : 3400
+Avg Score : 590.275
+Gen : 360
+Best Score : 5600
+Avg Score : 577.155
+Gen : 361
+Best Score : 3400
+Avg Score : 482.86
+Gen : 362
+Best Score : 5600
+Avg Score : 514.235
+Gen : 363
+Best Score : 4500
+Avg Score : 449.85
+Gen : 364
+Best Score : 4500
+Avg Score : 495.565
+Gen : 365
+Best Score : 4500
+Avg Score : 453.69
+Gen : 366
+Best Score : 5600
+Avg Score : 400.075
+Gen : 367
+Best Score : 2300
+Avg Score : 369.995
+Gen : 368
+Best Score : 5600
+Avg Score : 386.2
+Gen : 369
+Best Score : 4500
+Avg Score : 333.805
+Gen : 370
+Best Score : 3400
+Avg Score : 356.825
+Gen : 371
+Best Score : 4500
+Avg Score : 343.68
+Gen : 372
+Best Score : 3400
+Avg Score : 414.775
+Gen : 373
+Best Score : 3400
+Avg Score : 438.765
+Gen : 374
+Best Score : 5230
+Avg Score : 451.35
+Gen : 375
+Best Score : 5600
+Avg Score : 553.22
+Gen : 376
+Best Score : 3400
+Avg Score : 533.605
+Gen : 377
+Best Score : 4500
+Avg Score : 466.815
+Gen : 378
+Best Score : 3400
+Avg Score : 493.57
+Gen : 379
+Best Score : 4283
+Avg Score : 620.935
+Gen : 380
+Best Score : 5325
+Avg Score : 610.965
+Gen : 381
+Best Score : 3400
+Avg Score : 531.125
+Gen : 382
+Best Score : 3400
+Avg Score : 493.76
+Gen : 383
+Best Score : 4500
+Avg Score : 503.375
+Gen : 384
+Best Score : 4500
+Avg Score : 589.86
+Gen : 385
+Best Score : 3400
+Avg Score : 491.41
+Gen : 386
+Best Score : 3400
+Avg Score : 384.245
+Gen : 387
+Best Score : 3140
+Avg Score : 393.14
+Gen : 388
+Best Score : 3400
+Avg Score : 336.75
+Gen : 389
+Best Score : 2300
+Avg Score : 260.665
+Gen : 390
+Best Score : 4234
+Avg Score : 313.95
+Gen : 391
+Best Score : 3400
+Avg Score : 355.935
+Gen : 392
+Best Score : 3128
+Avg Score : 363.045
+Gen : 393
+Best Score : 2300
+Avg Score : 289.28
+Gen : 394
+Best Score : 2300
+Avg Score : 275.865
+Gen : 395
+Best Score : 2300
+Avg Score : 298.82
+Gen : 396
+Best Score : 4500
+Avg Score : 559.81
+Gen : 397
+Best Score : 4500
+Avg Score : 552.92
+Gen : 398
+Best Score : 3400
+Avg Score : 532.58
+Gen : 399
+Best Score : 4212
+Avg Score : 630.3
+Gen : 400
+Best Score : 5600
+Avg Score : 676.725
+Gen : 401
+Best Score : 4500
+Avg Score : 713.215
+Gen : 402
+Best Score : 4222
+Avg Score : 700.695
+Gen : 403
+Best Score : 4500
+Avg Score : 587.19
+Gen : 404
+Best Score : 3400
+Avg Score : 766.64
+Gen : 405
+Best Score : 4500
+Avg Score : 647.265
+Gen : 406
+Best Score : 6700
+Avg Score : 789.875
+Gen : 407
+Best Score : 5600
+Avg Score : 728.17
+Gen : 408
+Best Score : 4500
+Avg Score : 701.285
+Gen : 409
+Best Score : 5243
+Avg Score : 657.845
+Gen : 410
+Best Score : 4500
+Avg Score : 691.72
+Gen : 411
+Best Score : 4172
+Avg Score : 758.775
+Gen : 412
+Best Score : 6335
+Avg Score : 833.0
+Gen : 413
+Best Score : 4500
+Avg Score : 614.97
+Gen : 414
+Best Score : 4139
+Avg Score : 581.61
+Gen : 415
+Best Score : 5199
+Avg Score : 774.08
+Gen : 416
+Best Score : 3400
+Avg Score : 710.475
+Gen : 417
+Best Score : 4500
+Avg Score : 668.44
+Gen : 418
+Best Score : 3400
+Avg Score : 634.485
+Gen : 419
+Best Score : 3195
+Avg Score : 498.86
+Gen : 420
+Best Score : 4500
+Avg Score : 661.82
+Gen : 421
+Best Score : 3126
+Avg Score : 514.175
+Gen : 422
+Best Score : 3400
+Avg Score : 532.135
+Gen : 423
+Best Score : 4500
+Avg Score : 584.415
+Gen : 424
+Best Score : 3400
+Avg Score : 614.21
+Gen : 425
+Best Score : 4500
+Avg Score : 663.51
+Gen : 426
+Best Score : 2300
+Avg Score : 582.815
+Gen : 427
+Best Score : 5135
+Avg Score : 594.515
+Gen : 428
+Best Score : 3185
+Avg Score : 479.31
+Gen : 429
+Best Score : 3066
+Avg Score : 413.61
+Gen : 430
+Best Score : 3400
+Avg Score : 446.115
+Gen : 431
+Best Score : 5600
+Avg Score : 490.8
+Gen : 432
+Best Score : 3165
+Avg Score : 444.075
+Gen : 433
+Best Score : 2300
+Avg Score : 461.595
+Gen : 434
+Best Score : 3400
+Avg Score : 446.645
+Gen : 435
+Best Score : 3132
+Avg Score : 432.065
+Gen : 436
+Best Score : 3400
+Avg Score : 444.44
+Gen : 437
+Best Score : 2300
+Avg Score : 331.32
+Gen : 438
+Best Score : 2122
+Avg Score : 339.175
+Gen : 439
+Best Score : 3400
+Avg Score : 428.955
+Gen : 440
+Best Score : 6700
+Avg Score : 536.89
+Gen : 441
+Best Score : 3400
+Avg Score : 514.425
+Gen : 442
+Best Score : 3097
+Avg Score : 485.725
+Gen : 443
+Best Score : 3400
+Avg Score : 486.815
+Gen : 444
+Best Score : 3158
+Avg Score : 479.545
+Gen : 445
+Best Score : 2300
+Avg Score : 384.2
+Gen : 446
+Best Score : 3400
+Avg Score : 502.89
+Gen : 447
+Best Score : 2300
+Avg Score : 385.36
+Gen : 448
+Best Score : 3400
+Avg Score : 445.565
+Gen : 449
+Best Score : 4134
+Avg Score : 559.01
+Gen : 450
+Best Score : 2300
+Avg Score : 460.945
+Gen : 451
+Best Score : 6700
+Avg Score : 451.23
+Gen : 452
+Best Score : 2300
+Avg Score : 449.955
+Gen : 453
+Best Score : 3400
+Avg Score : 359.325
+Gen : 454
+Best Score : 2300
+Avg Score : 348.755
+Gen : 455
+Best Score : 3192
+Avg Score : 342.1
+Gen : 456
+Best Score : 3067
+Avg Score : 350.745
+Gen : 457
+Best Score : 3400
+Avg Score : 363.285
+Gen : 458
+Best Score : 2300
+Avg Score : 311.3
+Gen : 459
+Best Score : 3400
+Avg Score : 459.95
+Gen : 460
+Best Score : 2300
+Avg Score : 477.74
+Gen : 461
+Best Score : 5600
+Avg Score : 441.395
+Gen : 462
+Best Score : 3400
+Avg Score : 468.825
+Gen : 463
+Best Score : 3112
+Avg Score : 470.775
+Gen : 464
+Best Score : 3220
+Avg Score : 484.395
+Gen : 465
+Best Score : 3400
+Avg Score : 556.49
+Gen : 466
+Best Score : 3400
+Avg Score : 592.955
+Gen : 467
+Best Score : 3176
+Avg Score : 589.905
+Gen : 468
+Best Score : 3400
+Avg Score : 529.62
+Gen : 469
+Best Score : 3121
+Avg Score : 450.305
+Gen : 470
+Best Score : 6700
+Avg Score : 581.91
+Gen : 471
+Best Score : 7394
+Avg Score : 544.55
+Gen : 472
+Best Score : 3271
+Avg Score : 532.995
+Gen : 473
+Best Score : 5600
+Avg Score : 667.69
+Gen : 474
+Best Score : 5600
+Avg Score : 570.74
+Gen : 475
+Best Score : 4194
+Avg Score : 558.615
+Gen : 476
+Best Score : 3240
+Avg Score : 578.315
+Gen : 477
+Best Score : 3400
+Avg Score : 576.965
+Gen : 478
+Best Score : 3400
+Avg Score : 608.74
+Gen : 479
+Best Score : 4234
+Avg Score : 630.185
+Gen : 480
+Best Score : 2300
+Avg Score : 623.54
+Gen : 481
+Best Score : 2300
+Avg Score : 500.375
+Gen : 482
+Best Score : 3400
+Avg Score : 595.8
+Gen : 483
+Best Score : 3137
+Avg Score : 493.505
+Gen : 484
+Best Score : 3130
+Avg Score : 589.77
+Gen : 485
+Best Score : 3400
+Avg Score : 616.385
+Gen : 486
+Best Score : 3209
+Avg Score : 553.445
+Gen : 487
+Best Score : 2300
+Avg Score : 494.97
+Gen : 488
+Best Score : 3400
+Avg Score : 589.12
+Gen : 489
+Best Score : 3086
+Avg Score : 573.095
+Gen : 490
+Best Score : 4278
+Avg Score : 590.855
+Gen : 491
+Best Score : 3251
+Avg Score : 490.84
+Gen : 492
+Best Score : 4082
+Avg Score : 434.225
+Gen : 493
+Best Score : 3400
+Avg Score : 457.63
+Gen : 494
+Best Score : 5362
+Avg Score : 609.345
+Gen : 495
+Best Score : 4221
+Avg Score : 483.145
+Gen : 496
+Best Score : 4274
+Avg Score : 585.835
+Gen : 497
+Best Score : 3400
+Avg Score : 576.23
+Gen : 498
+Best Score : 4281
+Avg Score : 573.92
+Gen : 499
+Best Score : 4215
+Avg Score : 569.715
+Gen : 500
+Best Score : 4322
+Avg Score : 546.935
+Gen : 501
+Best Score : 3400
+Avg Score : 595.255
+Gen : 502
+Best Score : 4173
+Avg Score : 774.375
+Gen : 503
+Best Score : 4500
+Avg Score : 701.92
+Gen : 504
+Best Score : 2300
+Avg Score : 605.96
+Gen : 505
+Best Score : 4500
+Avg Score : 836.98
+Gen : 506
+Best Score : 4247
+Avg Score : 733.95
+Gen : 507
+Best Score : 4500
+Avg Score : 659.165
+Gen : 508
+Best Score : 3400
+Avg Score : 702.085
+Gen : 509
+Best Score : 3151
+Avg Score : 666.34
+Gen : 510
+Best Score : 3400
+Avg Score : 563.855
+Gen : 511
+Best Score : 3400
+Avg Score : 716.23
+Gen : 512
+Best Score : 5348
+Avg Score : 681.51
+Gen : 513
+Best Score : 4500
+Avg Score : 546.815
+Gen : 514
+Best Score : 4500
+Avg Score : 621.34
+Gen : 515
+Best Score : 3400
+Avg Score : 682.1
+Gen : 516
+Best Score : 4205
+Avg Score : 696.29
+Gen : 517
+Best Score : 5274
+Avg Score : 798.285
+Gen : 518
+Best Score : 3400
+Avg Score : 763.38
+Gen : 519
+Best Score : 4500
+Avg Score : 851.005
+Gen : 520
+Best Score : 7800
+Avg Score : 776.59
+Gen : 521
+Best Score : 4500
+Avg Score : 751.75
+Gen : 522
+Best Score : 5337
+Avg Score : 704.74
+Gen : 523
+Best Score : 5248
+Avg Score : 744.765
+Gen : 524
+Best Score : 3187
+Avg Score : 711.42
+Gen : 525
+Best Score : 5600
+Avg Score : 670.525
+Gen : 526
+Best Score : 4186
+Avg Score : 691.52
+Gen : 527
+Best Score : 3219
+Avg Score : 497.35
+Gen : 528
+Best Score : 3109
+Avg Score : 450.055
+Gen : 529
+Best Score : 4500
+Avg Score : 390.495
+Gen : 530
+Best Score : 3400
+Avg Score : 496.76
+Gen : 531
+Best Score : 3400
+Avg Score : 504.285
+Gen : 532
+Best Score : 3102
+Avg Score : 382.195
+Gen : 533
+Best Score : 3139
+Avg Score : 330.25
+Gen : 534
+Best Score : 5244
+Avg Score : 352.28
+Gen : 535
+Best Score : 3117
+Avg Score : 478.71
+Gen : 536
+Best Score : 2300
+Avg Score : 507.07
+Gen : 537
+Best Score : 3400
+Avg Score : 485.985
+Gen : 538
+Best Score : 4500
+Avg Score : 554.775
+Gen : 539
+Best Score : 3400
+Avg Score : 549.225
+Gen : 540
+Best Score : 3400
+Avg Score : 484.775
+Gen : 541
+Best Score : 3400
+Avg Score : 533.9
+Gen : 542
+Best Score : 5304
+Avg Score : 588.08
+Gen : 543
+Best Score : 3400
+Avg Score : 545.27
+Gen : 544
+Best Score : 2300
+Avg Score : 481.11
+Gen : 545
+Best Score : 4500
+Avg Score : 506.925
+Gen : 546
+Best Score : 3191
+Avg Score : 536.89
+Gen : 547
+Best Score : 5600
+Avg Score : 622.96
+Gen : 548
+Best Score : 4500
+Avg Score : 471.345
+Gen : 549
+Best Score : 5201
+Avg Score : 594.015
+Gen : 550
+Best Score : 3400
+Avg Score : 552.335
+Gen : 551
+Best Score : 3400
+Avg Score : 566.85
+Gen : 552
+Best Score : 2300
+Avg Score : 560.29
+Gen : 553
+Best Score : 3400
+Avg Score : 601.78
+Gen : 554
+Best Score : 3400
+Avg Score : 642.945
+Gen : 555
+Best Score : 5318
+Avg Score : 865.455
+Gen : 556
+Best Score : 5600
+Avg Score : 681.215
+Gen : 557
+Best Score : 3400
+Avg Score : 529.045
+Gen : 558
+Best Score : 4248
+Avg Score : 675.41
+Gen : 559
+Best Score : 3400
+Avg Score : 652.21
+Gen : 560
+Best Score : 3211
+Avg Score : 727.79
+Gen : 561
+Best Score : 4137
+Avg Score : 624.525
+Gen : 562
+Best Score : 4500
+Avg Score : 705.23
+Gen : 563
+Best Score : 4500
+Avg Score : 656.075
+Gen : 564
+Best Score : 4500
+Avg Score : 627.28
+Gen : 565
+Best Score : 3400
+Avg Score : 647.665
+Gen : 566
+Best Score : 4193
+Avg Score : 689.12
+Gen : 567
+Best Score : 4287
+Avg Score : 749.88
+Gen : 568
+Best Score : 5386
+Avg Score : 781.665
+Gen : 569
+Best Score : 3400
+Avg Score : 757.98
+Gen : 570
+Best Score : 5600
+Avg Score : 851.455
+Gen : 571
+Best Score : 3400
+Avg Score : 783.4
+Gen : 572
+Best Score : 3400
+Avg Score : 800.805
+Gen : 573
+Best Score : 4500
+Avg Score : 782.645
+Gen : 574
+Best Score : 3400
+Avg Score : 761.61
+Gen : 575
+Best Score : 2300
+Avg Score : 631.535
+Gen : 576
+Best Score : 2300
+Avg Score : 471.27
+Gen : 577
+Best Score : 3400
+Avg Score : 502.96
+Gen : 578
+Best Score : 2300
+Avg Score : 532.695
+Gen : 579
+Best Score : 3400
+Avg Score : 527.6
+Gen : 580
+Best Score : 5329
+Avg Score : 531.94
+Gen : 581
+Best Score : 2300
+Avg Score : 547.86
+Gen : 582
+Best Score : 4500
+Avg Score : 420.81
+Gen : 583
+Best Score : 3139
+Avg Score : 523.385
+Gen : 584
+Best Score : 3400
+Avg Score : 483.425
+Gen : 585
+Best Score : 2300
+Avg Score : 486.275
+Gen : 586
+Best Score : 3400
+Avg Score : 586.945
+Gen : 587
+Best Score : 3253
+Avg Score : 566.305
+Gen : 588
+Best Score : 3400
+Avg Score : 497.62
+Gen : 589
+Best Score : 4209
+Avg Score : 496.84
+Gen : 590
+Best Score : 3400
+Avg Score : 443.46
+Gen : 591
+Best Score : 4500
+Avg Score : 460.225
+Gen : 592
+Best Score : 3400
+Avg Score : 556.435
+Gen : 593
+Best Score : 2300
+Avg Score : 543.035
+Gen : 594
+Best Score : 3400
+Avg Score : 514.355
+Gen : 595
+Best Score : 3136
+Avg Score : 578.895
+Gen : 596
+Best Score : 3271
+Avg Score : 630.675
+Gen : 597
+Best Score : 3400
+Avg Score : 550.445
+Gen : 598
+Best Score : 3078
+Avg Score : 610.55
+Gen : 599
+Best Score : 4500
+Avg Score : 540.025
+Gen : 600
+Best Score : 2300
+Avg Score : 453.795
+Gen : 601
+Best Score : 3400
+Avg Score : 486.135
+Gen : 602
+Best Score : 4500
+Avg Score : 552.18
+Gen : 603
+Best Score : 5600
+Avg Score : 700.05
+Gen : 604
+Best Score : 4500
+Avg Score : 718.05
+Gen : 605
+Best Score : 5194
+Avg Score : 674.08
+Gen : 606
+Best Score : 5347
+Avg Score : 693.635
+Gen : 607
+Best Score : 4197
+Avg Score : 648.865
+Gen : 608
+Best Score : 3155
+Avg Score : 682.6
+Gen : 609
+Best Score : 3181
+Avg Score : 660.79
+Gen : 610
+Best Score : 5163
+Avg Score : 534.215
+Gen : 611
+Best Score : 4500
+Avg Score : 504.58
+Gen : 612
+Best Score : 3400
+Avg Score : 470.84
+Gen : 613
+Best Score : 3400
+Avg Score : 490.19
+Gen : 614
+Best Score : 4201
+Avg Score : 571.84
+Gen : 615
+Best Score : 3400
+Avg Score : 576.26
+Gen : 616
+Best Score : 4500
+Avg Score : 684.315
+Gen : 617
+Best Score : 3400
+Avg Score : 615.955
+Gen : 618
+Best Score : 2300
+Avg Score : 561.56
+Gen : 619
+Best Score : 5600
+Avg Score : 685.56
+Gen : 620
+Best Score : 3400
+Avg Score : 649.675
+Gen : 621
+Best Score : 5237
+Avg Score : 613.28
+Gen : 622
+Best Score : 3113
+Avg Score : 559.855
+Gen : 623
+Best Score : 3400
+Avg Score : 601.21
+Gen : 624
+Best Score : 4500
+Avg Score : 713.595
+Gen : 625
+Best Score : 4500
+Avg Score : 575.295
+Gen : 626
+Best Score : 3134
+Avg Score : 613.835
+Gen : 627
+Best Score : 3228
+Avg Score : 505.78
+Gen : 628
+Best Score : 2300
+Avg Score : 457.075
+Gen : 629
+Best Score : 4500
+Avg Score : 447.94
+Gen : 630
+Best Score : 4247
+Avg Score : 492.375
+Gen : 631
+Best Score : 4288
+Avg Score : 509.8
+Gen : 632
+Best Score : 4165
+Avg Score : 506.225
+Gen : 633
+Best Score : 6268
+Avg Score : 630.635
+Gen : 634
+Best Score : 4148
+Avg Score : 632.52
+Gen : 635
+Best Score : 4181
+Avg Score : 689.99
+Gen : 636
+Best Score : 5301
+Avg Score : 732.24
+Gen : 637
+Best Score : 5366
+Avg Score : 593.465
+Gen : 638
+Best Score : 5185
+Avg Score : 653.065
+Gen : 639
+Best Score : 6480
+Avg Score : 750.32
+Gen : 640
+Best Score : 5274
+Avg Score : 674.295
+Gen : 641
+Best Score : 5600
+Avg Score : 730.805
+Gen : 642
+Best Score : 5194
+Avg Score : 874.835
+Gen : 643
+Best Score : 4500
+Avg Score : 751.105
+Gen : 644
+Best Score : 5600
+Avg Score : 578.735
+Gen : 645
+Best Score : 4346
+Avg Score : 579.55
+Gen : 646
+Best Score : 5350
+Avg Score : 541.56
+Gen : 647
+Best Score : 3210
+Avg Score : 415.305
+Gen : 648
+Best Score : 5291
+Avg Score : 461.035
+Gen : 649
+Best Score : 5231
+Avg Score : 412.81
+Gen : 650
+Best Score : 6197
+Avg Score : 506.985
+Gen : 651
+Best Score : 4236
+Avg Score : 458.09
+Gen : 652
+Best Score : 5600
+Avg Score : 402.105
+Gen : 653
+Best Score : 8505
+Avg Score : 465.4
+Gen : 654
+Best Score : 7421
+Avg Score : 406.48
+Gen : 655
+Best Score : 5219
+Avg Score : 495.675
+Gen : 656
+Best Score : 4243
+Avg Score : 529.28
+Gen : 657
+Best Score : 7421
+Avg Score : 688.595
+Gen : 658
+Best Score : 4500
+Avg Score : 539.79
+Gen : 659
+Best Score : 5600
+Avg Score : 493.445
+Gen : 660
+Best Score : 10507
+Avg Score : 528.02
+Gen : 661
+Best Score : 3179
+Avg Score : 408.945
+Gen : 662
+Best Score : 9427
+Avg Score : 565.35
+Gen : 663
+Best Score : 5369
+Avg Score : 515.63
+Gen : 664
+Best Score : 6363
+Avg Score : 361.215
+Gen : 665
+Best Score : 6234
+Avg Score : 528.175
+Gen : 666
+Best Score : 6318
+Avg Score : 580.94
+Gen : 667
+Best Score : 4197
+Avg Score : 527.92
+Gen : 668
+Best Score : 6334
+Avg Score : 472.175
+Gen : 669
+Best Score : 7800
+Avg Score : 515.595
+Gen : 670
+Best Score : 5600
+Avg Score : 540.035
+Gen : 671
+Best Score : 5199
+Avg Score : 540.875
+Gen : 672
+Best Score : 5600
+Avg Score : 563.715
+Gen : 673
+Best Score : 4500
+Avg Score : 462.76
+Gen : 674
+Best Score : 4500
+Avg Score : 444.14
+Gen : 675
+Best Score : 5600
+Avg Score : 414.275
+Gen : 676
+Best Score : 5386
+Avg Score : 400.625
+Gen : 677
+Best Score : 6316
+Avg Score : 429.235
+Gen : 678
+Best Score : 5232
+Avg Score : 440.615
+Gen : 679
+Best Score : 6700
+Avg Score : 408.605
+Gen : 680
+Best Score : 4308
+Avg Score : 429.1
+Gen : 681
+Best Score : 5307
+Avg Score : 584.03
+Gen : 682
+Best Score : 7434
+Avg Score : 518.255
+Gen : 683
+Best Score : 7340
+Avg Score : 511.545
+Gen : 684
+Best Score : 6700
+Avg Score : 543.38
+Gen : 685
+Best Score : 5259
+Avg Score : 491.96
+Gen : 686
+Best Score : 5342
+Avg Score : 570.87
+Gen : 687
+Best Score : 7475
+Avg Score : 580.08
+Gen : 688
+Best Score : 6337
+Avg Score : 462.86
+Gen : 689
+Best Score : 4500
+Avg Score : 500.5
+Gen : 690
+Best Score : 4500
+Avg Score : 490.02
+Gen : 691
+Best Score : 10673
+Avg Score : 533.17
+Gen : 692
+Best Score : 4500
+Avg Score : 572.565
+Gen : 693
+Best Score : 6338
+Avg Score : 553.135
+Gen : 694
+Best Score : 5600
+Avg Score : 554.755
+Gen : 695
+Best Score : 4294
+Avg Score : 627.4
+Gen : 696
+Best Score : 7242
+Avg Score : 547.36
+Gen : 697
+Best Score : 5326
+Avg Score : 504.635
+Gen : 698
+Best Score : 5318
+Avg Score : 543.33
+Gen : 699
+Best Score : 3400
+Avg Score : 561.91
+Gen : 700
+Best Score : 5362
+Avg Score : 558.97
+Gen : 701
+Best Score : 4500
+Avg Score : 512.295
+Gen : 702
+Best Score : 7800
+Avg Score : 605.545
+Gen : 703
+Best Score : 5600
+Avg Score : 704.05
+Gen : 704
+Best Score : 8900
+Avg Score : 645.005
+Gen : 705
+Best Score : 5303
+Avg Score : 562.74
+Gen : 706
+Best Score : 4158
+Avg Score : 646.19
+Gen : 707
+Best Score : 5600
+Avg Score : 656.855
+Gen : 708
+Best Score : 7296
+Avg Score : 635.825
+Gen : 709
+Best Score : 9467
+Avg Score : 644.705
+Gen : 710
+Best Score : 5232
+Avg Score : 693.555
+Gen : 711
+Best Score : 5402
+Avg Score : 562.455
+Gen : 712
+Best Score : 12200
+Avg Score : 693.46
+Gen : 713
+Best Score : 5226
+Avg Score : 648.03
+Gen : 714
+Best Score : 7350
+Avg Score : 660.705
+Gen : 715
+Best Score : 7385
+Avg Score : 635.295
+Gen : 716
+Best Score : 7304
+Avg Score : 635.685
+Gen : 717
+Best Score : 4241
+Avg Score : 585.22
+Gen : 718
+Best Score : 6700
+Avg Score : 654.14
+Gen : 719
+Best Score : 6700
+Avg Score : 637.17
+Gen : 720
+Best Score : 8325
+Avg Score : 772.115
+Gen : 721
+Best Score : 8526
+Avg Score : 771.54
+Gen : 722
+Best Score : 6700
+Avg Score : 771.785
+Gen : 723
+Best Score : 5239
+Avg Score : 602.005
+Gen : 724
+Best Score : 10486
+Avg Score : 784.7
+Gen : 725
+Best Score : 14958
+Avg Score : 790.965
+Gen : 726
+Best Score : 7579
+Avg Score : 649.42
+Gen : 727
+Best Score : 6352
+Avg Score : 710.2
+Gen : 728
+Best Score : 5600
+Avg Score : 737.51
+Gen : 729
+Best Score : 6700
+Avg Score : 596.115
+Gen : 730
+Best Score : 4500
+Avg Score : 725.19
+Gen : 731
+Best Score : 8430
+Avg Score : 751.78
+Gen : 732
+Best Score : 6700
+Avg Score : 889.12
+Gen : 733
+Best Score : 6700
+Avg Score : 792.27
+Gen : 734
+Best Score : 7800
+Avg Score : 792.58
+Gen : 735
+Best Score : 6335
+Avg Score : 701.38
+Gen : 736
+Best Score : 7320
+Avg Score : 768.05
+Gen : 737
+Best Score : 6294
+Avg Score : 720.29
+Gen : 738
+Best Score : 5262
+Avg Score : 732.775
+Gen : 739
+Best Score : 5600
+Avg Score : 816.615
+Gen : 740
+Best Score : 7506
+Avg Score : 809.75
+Gen : 741
+Best Score : 5285
+Avg Score : 609.87
+Gen : 742
+Best Score : 5367
+Avg Score : 776.985
+Gen : 743
+Best Score : 8526
+Avg Score : 589.55
+Gen : 744
+Best Score : 5600
+Avg Score : 559.86
+Gen : 745
+Best Score : 6301
+Avg Score : 595.72
+Gen : 746
+Best Score : 4164
+Avg Score : 475.525
+Gen : 747
+Best Score : 4251
+Avg Score : 583.72
+Gen : 748
+Best Score : 5358
+Avg Score : 553.14
+Gen : 749
+Best Score : 7800
+Avg Score : 528.985
+Gen : 750
+Best Score : 3267
+Avg Score : 465.67
+Gen : 751
+Best Score : 6517
+Avg Score : 580.215
+Gen : 752
+Best Score : 8320
+Avg Score : 702.395
+Gen : 753
+Best Score : 5320
+Avg Score : 547.025
+Gen : 754
+Best Score : 4500
+Avg Score : 457.175
+Gen : 755
+Best Score : 5389
+Avg Score : 548.33
+Gen : 756
+Best Score : 5600
+Avg Score : 546.38
+Gen : 757
+Best Score : 5349
+Avg Score : 480.595
+Gen : 758
+Best Score : 4283
+Avg Score : 476.835
+Gen : 759
+Best Score : 4500
+Avg Score : 467.675
+Gen : 760
+Best Score : 4289
+Avg Score : 513.245
+Gen : 761
+Best Score : 5600
+Avg Score : 457.305
+Gen : 762
+Best Score : 6700
+Avg Score : 419.285
+Gen : 763
+Best Score : 8401
+Avg Score : 533.845
+Gen : 764
+Best Score : 5301
+Avg Score : 469.05
+Gen : 765
+Best Score : 6700
+Avg Score : 439.11
+Gen : 766
+Best Score : 4107
+Avg Score : 525.62
+Gen : 767
+Best Score : 6700
+Avg Score : 574.305
+Gen : 768
+Best Score : 4500
+Avg Score : 507.61
+Gen : 769
+Best Score : 5262
+Avg Score : 492.68
+Gen : 770
+Best Score : 7800
+Avg Score : 601.75
+Gen : 771
+Best Score : 6700
+Avg Score : 534.285
+Gen : 772
+Best Score : 7395
+Avg Score : 649.13
+Gen : 773
+Best Score : 8472
+Avg Score : 650.385
+Gen : 774
+Best Score : 6700
+Avg Score : 720.81
+Gen : 775
+Best Score : 4500
+Avg Score : 710.37
+Gen : 776
+Best Score : 5318
+Avg Score : 719.75
+Gen : 777
+Best Score : 14400
+Avg Score : 832.965
+Gen : 778
+Best Score : 6700
+Avg Score : 754.095
+Gen : 779
+Best Score : 6444
+Avg Score : 912.035
+Gen : 780
+Best Score : 7800
+Avg Score : 961.82
+Gen : 781
+Best Score : 8900
+Avg Score : 1029.305
+Gen : 782
+Best Score : 11736
+Avg Score : 1183.5
+Gen : 783
+Best Score : 8900
+Avg Score : 967.685
+Gen : 784
+Best Score : 9578
+Avg Score : 882.11
+Gen : 785
+Best Score : 7800
+Avg Score : 941.63
+Gen : 786
+Best Score : 9424
+Avg Score : 854.725
+Gen : 787
+Best Score : 14400
+Avg Score : 833.755
+Gen : 788
+Best Score : 10549
+Avg Score : 793.445
+Gen : 789
+Best Score : 8900
+Avg Score : 674.575
+Gen : 790
+Best Score : 7407
+Avg Score : 692.495
+Gen : 791
+Best Score : 7800
+Avg Score : 874.42
+Gen : 792
+Best Score : 11100
+Avg Score : 905.61
+Gen : 793
+Best Score : 5600
+Avg Score : 755.405
+Gen : 794
+Best Score : 4500
+Avg Score : 663.67
+Gen : 795
+Best Score : 6700
+Avg Score : 733.135
+Gen : 796
+Best Score : 5398
+Avg Score : 780.715
+Gen : 797
+Best Score : 9405
+Avg Score : 709.19
+Gen : 798
+Best Score : 13300
+Avg Score : 643.245
+Gen : 799
+Best Score : 5353
+Avg Score : 528.46
+Gen : 800
+Best Score : 13300
+Avg Score : 542.26
+Gen : 801
+Best Score : 6249
+Avg Score : 601.07
+Gen : 802
+Best Score : 6700
+Avg Score : 551.4
+Gen : 803
+Best Score : 6700
+Avg Score : 591.79
+Gen : 804
+Best Score : 7800
+Avg Score : 602.295
+Gen : 805
+Best Score : 8900
+Avg Score : 788.9
+Gen : 806
+Best Score : 5600
+Avg Score : 742.925
+Gen : 807
+Best Score : 7800
+Avg Score : 709.1
+Gen : 808
+Best Score : 8352
+Avg Score : 1004.99
+Gen : 809
+Best Score : 7551
+Avg Score : 1101.12
+Gen : 810
+Best Score : 8900
+Avg Score : 1039.825
+Gen : 811
+Best Score : 7527
+Avg Score : 1150.185
+Gen : 812
+Best Score : 7800
+Avg Score : 892.205
+Gen : 813
+Best Score : 7800
+Avg Score : 783.68
+Gen : 814
+Best Score : 7271
+Avg Score : 880.215
+Gen : 815
+Best Score : 11100
+Avg Score : 835.72
+Gen : 816
+Best Score : 10000
+Avg Score : 720.11
+Gen : 817
+Best Score : 10000
+Avg Score : 787.58
+Gen : 818
+Best Score : 9426
+Avg Score : 918.425
+Gen : 819
+Best Score : 8900
+Avg Score : 761.255
+Gen : 820
+Best Score : 8900
+Avg Score : 1121.045
+Gen : 821
+Best Score : 6700
+Avg Score : 856.485
+Gen : 822
+Best Score : 7800
+Avg Score : 824.57
+Gen : 823
+Best Score : 7800
+Avg Score : 941.91
+Gen : 824
+Best Score : 8520
+Avg Score : 858.21
+Gen : 825
+Best Score : 4500
+Avg Score : 699.15
+Gen : 826
+Best Score : 7399
+Avg Score : 841.215
+Gen : 827
+Best Score : 11757
+Avg Score : 937.025
+Gen : 828
+Best Score : 6700
+Avg Score : 782.625
+Gen : 829
+Best Score : 6700
+Avg Score : 924.17
+Gen : 830
+Best Score : 7800
+Avg Score : 702.685
+Gen : 831
+Best Score : 5600
+Avg Score : 758.885
+Gen : 832
+Best Score : 8621
+Avg Score : 849.34
+Gen : 833
+Best Score : 7800
+Avg Score : 877.99
+Gen : 834
+Best Score : 8578
+Avg Score : 905.245
+Gen : 835
+Best Score : 5600
+Avg Score : 742.515
+Gen : 836
+Best Score : 7411
+Avg Score : 807.825
+Gen : 837
+Best Score : 8604
+Avg Score : 781.295
+Gen : 838
+Best Score : 8900
+Avg Score : 886.495
+Gen : 839
+Best Score : 9485
+Avg Score : 854.955
+Gen : 840
+Best Score : 8472
+Avg Score : 883.675
+Gen : 841
+Best Score : 7800
+Avg Score : 774.94
+Gen : 842
+Best Score : 8441
+Avg Score : 764.555
+Gen : 843
+Best Score : 8460
+Avg Score : 640.205
+Gen : 844
+Best Score : 10000
+Avg Score : 784.725
+Gen : 845
+Best Score : 6700
+Avg Score : 695.54
+Gen : 846
+Best Score : 6415
+Avg Score : 757.195
+Gen : 847
+Best Score : 7449
+Avg Score : 796.99
+Gen : 848
+Best Score : 4500
+Avg Score : 718.785
+Gen : 849
+Best Score : 7442
+Avg Score : 755.33
+Gen : 850
+Best Score : 5349
+Avg Score : 552.71
+Gen : 851
+Best Score : 5285
+Avg Score : 573.76
+Gen : 852
+Best Score : 8559
+Avg Score : 666.27
+Gen : 853
+Best Score : 4500
+Avg Score : 508.595
+Gen : 854
+Best Score : 4500
+Avg Score : 552.35
+Gen : 855
+Best Score : 7800
+Avg Score : 550.25
+Gen : 856
+Best Score : 7800
+Avg Score : 508.335
+Gen : 857
+Best Score : 3400
+Avg Score : 412.955
+Gen : 858
+Best Score : 7800
+Avg Score : 476.51
+Gen : 859
+Best Score : 6700
+Avg Score : 557.775
+Gen : 860
+Best Score : 7423
+Avg Score : 601.78
+Gen : 861
+Best Score : 6700
+Avg Score : 693.195
+Gen : 862
+Best Score : 7800
+Avg Score : 774.08
+Gen : 863
+Best Score : 5600
+Avg Score : 623.725
+Gen : 864
+Best Score : 7413
+Avg Score : 809.36
+Gen : 865
+Best Score : 7495
+Avg Score : 823.205
+Gen : 866
+Best Score : 8900
+Avg Score : 929.74
+Gen : 867
+Best Score : 11100
+Avg Score : 968.02
+Gen : 868
+Best Score : 8900
+Avg Score : 942.415
+Gen : 869
+Best Score : 10662
+Avg Score : 985.135
+Gen : 870
+Best Score : 8900
+Avg Score : 1075.295
+Gen : 871
+Best Score : 8900
+Avg Score : 1393.255
+Gen : 872
+Best Score : 10000
+Avg Score : 1390.965
+Gen : 873
+Best Score : 12200
+Avg Score : 1326.025
+Gen : 874
+Best Score : 7800
+Avg Score : 1306.09
+Gen : 875
+Best Score : 8900
+Avg Score : 1059.44
+Gen : 876
+Best Score : 10000
+Avg Score : 1010.375
+Gen : 877
+Best Score : 6700
+Avg Score : 864.8
+Gen : 878
+Best Score : 6396
+Avg Score : 759.51
+Gen : 879
+Best Score : 8377
+Avg Score : 881.135
+Gen : 880
+Best Score : 8447
+Avg Score : 971.47
+Gen : 881
+Best Score : 7800
+Avg Score : 1014.625
+Gen : 882
+Best Score : 8900
+Avg Score : 1184.71
+Gen : 883
+Best Score : 17700
+Avg Score : 1133.07
+Gen : 884
+Best Score : 7800
+Avg Score : 1167.16
+Gen : 885
+Best Score : 7800
+Avg Score : 1145.365
+Gen : 886
+Best Score : 8900
+Avg Score : 966.265
+Gen : 887
+Best Score : 8900
+Avg Score : 899.595
+Gen : 888
+Best Score : 6700
+Avg Score : 788.33
+Gen : 889
+Best Score : 6390
+Avg Score : 832.235
+Gen : 890
+Best Score : 5305
+Avg Score : 817.07
+Gen : 891
+Best Score : 7800
+Avg Score : 748.475
+Gen : 892
+Best Score : 6252
+Avg Score : 820.91
+Gen : 893
+Best Score : 8900
+Avg Score : 845.665
+Gen : 894
+Best Score : 5600
+Avg Score : 699.785
+Gen : 895
+Best Score : 7800
+Avg Score : 791.89
+Gen : 896
+Best Score : 6700
+Avg Score : 663.495
+Gen : 897
+Best Score : 5347
+Avg Score : 609.115
+Gen : 898
+Best Score : 6700
+Avg Score : 763.33
+Gen : 899
+Best Score : 7334
+Avg Score : 724.37
+Gen : 900
+Best Score : 7493
+Avg Score : 739.03
+Gen : 901
+Best Score : 11599
+Avg Score : 815.275
+Gen : 902
+Best Score : 6380
+Avg Score : 1013.665
+Gen : 903
+Best Score : 6366
+Avg Score : 916.635
+Gen : 904
+Best Score : 6700
+Avg Score : 838.115
+Gen : 905
+Best Score : 5600
+Avg Score : 775.435
+Gen : 906
+Best Score : 7800
+Avg Score : 773.95
+Gen : 907
+Best Score : 6700
+Avg Score : 816.175
+Gen : 908
+Best Score : 8491
+Avg Score : 783.08
+Gen : 909
+Best Score : 5600
+Avg Score : 665.1
+Gen : 910
+Best Score : 7299
+Avg Score : 735.155
+Gen : 911
+Best Score : 7800
+Avg Score : 914.365
+Gen : 912
+Best Score : 10575
+Avg Score : 922.48
+Gen : 913
+Best Score : 9538
+Avg Score : 937.93
+Gen : 914
+Best Score : 6339
+Avg Score : 879.81
+Gen : 915
+Best Score : 8900
+Avg Score : 968.575
+Gen : 916
+Best Score : 7475
+Avg Score : 810.795
+Gen : 917
+Best Score : 7800
+Avg Score : 725.105
+Gen : 918
+Best Score : 6700
+Avg Score : 840.165
+Gen : 919
+Best Score : 8900
+Avg Score : 761.26
+Gen : 920
+Best Score : 8900
+Avg Score : 969.27
+Gen : 921
+Best Score : 6301
+Avg Score : 714.845
+Gen : 922
+Best Score : 6700
+Avg Score : 697.895
+Gen : 923
+Best Score : 6700
+Avg Score : 640.625
+Gen : 924
+Best Score : 5600
+Avg Score : 531.03
+Gen : 925
+Best Score : 6700
+Avg Score : 524.375
+Gen : 926
+Best Score : 6700
+Avg Score : 651.11
+Gen : 927
+Best Score : 6700
+Avg Score : 578.755
+Gen : 928
+Best Score : 7511
+Avg Score : 576.625
+Gen : 929
+Best Score : 6325
+Avg Score : 602.35
+Gen : 930
+Best Score : 4500
+Avg Score : 665.37
+Gen : 931
+Best Score : 6700
+Avg Score : 694.42
+Gen : 932
+Best Score : 4225
+Avg Score : 575.52
+Gen : 933
+Best Score : 6700
+Avg Score : 740.845
+Gen : 934
+Best Score : 4500
+Avg Score : 593.62
+Gen : 935
+Best Score : 6700
+Avg Score : 592.705
+Gen : 936
+Best Score : 8900
+Avg Score : 724.105
+Gen : 937
+Best Score : 8900
+Avg Score : 941.33
+Gen : 938
+Best Score : 5600
+Avg Score : 847.76
+Gen : 939
+Best Score : 6700
+Avg Score : 690.905
+Gen : 940
+Best Score : 6379
+Avg Score : 698.575
+Gen : 941
+Best Score : 7316
+Avg Score : 891.91
+Gen : 942
+Best Score : 10000
+Avg Score : 808.115
+Gen : 943
+Best Score : 5298
+Avg Score : 778.865
+Gen : 944
+Best Score : 6700
+Avg Score : 912.745
+Gen : 945
+Best Score : 8542
+Avg Score : 800.745
+Gen : 946
+Best Score : 8900
+Avg Score : 962.5
+Gen : 947
+Best Score : 8900
+Avg Score : 942.835
+Gen : 948
+Best Score : 8432
+Avg Score : 872.505
+Gen : 949
+Best Score : 7800
+Avg Score : 930.585
+Gen : 950
+Best Score : 8900
+Avg Score : 958.275
+Gen : 951
+Best Score : 6700
+Avg Score : 852.645
+Gen : 952
+Best Score : 5600
+Avg Score : 811.665
+Gen : 953
+Best Score : 6700
+Avg Score : 855.51
+Gen : 954
+Best Score : 9523
+Avg Score : 894.235
+Gen : 955
+Best Score : 7800
+Avg Score : 804.72
+Gen : 956
+Best Score : 5600
+Avg Score : 848.86
+Gen : 957
+Best Score : 7800
+Avg Score : 911.835
+Gen : 958
+Best Score : 10000
+Avg Score : 922.68
+Gen : 959
+Best Score : 7370
+Avg Score : 943.01
+Gen : 960
+Best Score : 10000
+Avg Score : 1320.055
+Gen : 961
+Best Score : 10638
+Avg Score : 1130.335
+Gen : 962
+Best Score : 10000
+Avg Score : 1263.07
+Gen : 963
+Best Score : 8900
+Avg Score : 1169.45
+Gen : 964
+Best Score : 8357
+Avg Score : 1096.495
+Gen : 965
+Best Score : 9499
+Avg Score : 809.42
+Gen : 966
+Best Score : 5600
+Avg Score : 828.605
+Gen : 967
+Best Score : 7402
+Avg Score : 780.35
+Gen : 968
+Best Score : 7451
+Avg Score : 676.51
+Gen : 969
+Best Score : 4500
+Avg Score : 749.685
+Gen : 970
+Best Score : 5600
+Avg Score : 713.2
+Gen : 971
+Best Score : 8900
+Avg Score : 723.005
+Gen : 972
+Best Score : 8900
+Avg Score : 850.41
+Gen : 973
+Best Score : 5600
+Avg Score : 679.405
+Gen : 974
+Best Score : 7800
+Avg Score : 775.005
+Gen : 975
+Best Score : 9451
+Avg Score : 702.77
+Gen : 976
+Best Score : 7800
+Avg Score : 835.435
+Gen : 977
+Best Score : 6477
+Avg Score : 756.845
+Gen : 978
+Best Score : 5600
+Avg Score : 576.51
+Gen : 979
+Best Score : 4182
+Avg Score : 489.92
+Gen : 980
+Best Score : 6700
+Avg Score : 506.565
+Gen : 981
+Best Score : 7800
+Avg Score : 576.515
+Gen : 982
+Best Score : 6700
+Avg Score : 545.485
+Gen : 983
+Best Score : 6344
+Avg Score : 584.145
+Gen : 984
+Best Score : 6321
+Avg Score : 515.17
+Gen : 985
+Best Score : 6400
+Avg Score : 542.695
+Gen : 986
+Best Score : 7383
+Avg Score : 661.75
+Gen : 987
+Best Score : 6700
+Avg Score : 567.47
+Gen : 988
+Best Score : 6327
+Avg Score : 504.92
+Gen : 989
+Best Score : 5365
+Avg Score : 490.765
+Gen : 990
+Best Score : 6311
+Avg Score : 398.095
+Gen : 991
+Best Score : 7800
+Avg Score : 465.55
+Gen : 992
+Best Score : 6700
+Avg Score : 531.965
+Gen : 993
+Best Score : 7496
+Avg Score : 547.925
+Gen : 994
+Best Score : 5600
+Avg Score : 467.36
+Gen : 995
+Best Score : 12829
+Avg Score : 759.615
+Gen : 996
+Best Score : 5309
+Avg Score : 498.575
+Gen : 997
+Best Score : 6480
+Avg Score : 608.415
+Gen : 998
+Best Score : 7800
+Avg Score : 785.135
+Gen : 999
+Best Score : 5600
+Avg Score : 703.585
